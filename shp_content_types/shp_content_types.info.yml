@@ -1,0 +1,9 @@
+name: Shepherd content types
+type: module
+description: 'Provides the various content types Shepherd utilises.'
+core: 8.x
+package: Shepherd
+dependencies:
+  - group
+  - shp_roles
+

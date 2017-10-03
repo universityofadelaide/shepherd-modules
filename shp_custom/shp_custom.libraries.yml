@@ -1,0 +1,8 @@
+input_event_delay:
+  version: VERSION
+  js:
+    js/app/input_delay.js: {}
+  dependencies:
+      - core/jquery
+      - core/drupalSettings
+      - core/drupal
